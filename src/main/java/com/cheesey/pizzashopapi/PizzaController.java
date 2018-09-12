@@ -8,6 +8,6 @@ public class PizzaController {
 
     @RequestMapping("/pizzas")
 	public String getPizzas() {
-		return "Pizza be good";
+		return "Pizza be oh so good";
 	}
 }
